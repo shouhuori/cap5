@@ -1,0 +1,11 @@
+{
+  "appId": "com.example.app",
+  "appName": "cap5",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
